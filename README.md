@@ -1,4 +1,4 @@
-# DElivering Food Service(Zomato)
+# Delivering Food Service(Zomato)
 
 A Zomato clone web application built with MERN Stack.
 
