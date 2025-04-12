@@ -73,15 +73,13 @@ This project aims to replicate the key features of the Zomato application, provi
 
 2. **Start the development server:**
 
-   ```bash
-   npm run dev
-   ```
+```bash
+ npm run dev
+ ```
 ## Contributing
-
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 # Disclaimer
-
 This Zomato Clone project is created for educational purposes, aiming to showcase skills in web development and React programming. It is not an official Zomato product, and all credits for the original Zomato platform go to the dedicated team at Zomato. The use of the term "Zomato" is for descriptive purposes only.
 
 This project is not intended for commercial use or to imply any official association with Zomato. All trademarks, registered trademarks, and service marks mentioned herein are the property of their respective owners.
